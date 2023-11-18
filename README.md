@@ -1,4 +1,3 @@
-Sure, I can generate a readme file to explain what the project does based on the code. Here is a possible readme file:
 
 # Reddit Sentiment and Oil Price Analysis
 
